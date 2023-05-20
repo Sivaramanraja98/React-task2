@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  background-color: rgb(184, 220, 235);
+}
+
+.card img{
+  height: 200px;
+}
+.jm{
+  margin-inline: 20px 20px;
+}
+.wt{
+  background-color: rgb(238, 235, 213);
+}
